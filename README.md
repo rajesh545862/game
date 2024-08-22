@@ -4,9 +4,9 @@ To run this project follow these steps:
 
 2. clone the repo
 
-3. setup backend by navigating to backend directory
+3. setup backend by navigating to backend directory using :
    cd backend
-4. Install the necessary Node.js dependencies using 
+4. Install the necessary Node.js dependencies using : 
    npm install
 5. Ensure MongoDB is configured correctly in backend/db.js. Update the connection string if necessary.
 Start the backend server using: npm start
@@ -15,10 +15,10 @@ Start the backend server using: npm start
 6.setup frontend :
 Navigate to the frontend directory: cd ../frontend
 
-7.Install the React dependencies:
+7.Install the React dependencies using:
 npm install
 
-8.Start the React development server: npm start
+8.Start the React development server by using: npm start
 
 9. The React app should now be running,  on port 3000. Open  web browser and go to http://localhost:3000 to view the application.
 
